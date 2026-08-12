@@ -1,0 +1,7 @@
+feast==0.64.0
+pandas
+numpy
+pyarrow
+openpyxl
+scikit-learn
+matplotlib

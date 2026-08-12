@@ -1,0 +1,11 @@
+# Submission Checklist
+- [ ] Name: Dodda Ganesh
+- [ ] Register Number: 231FA04D33
+- [ ] Section: 9
+- [ ] Run all 59 Colab cells successfully
+- [ ] Add historical feature screenshot
+- [ ] Add model accuracy screenshot
+- [ ] Add online feature screenshot
+- [ ] Add final prediction screenshot
+- [ ] Verify README.md
+- [ ] Push repository as 231FA04D33-MLOps-Feast-SkillGap
